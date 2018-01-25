@@ -1,0 +1,38 @@
+footer.css
+
+footer {
+  background: #FFFFFF;
+  text-align: center;
+  padding-top: 48px;
+  padding-bottom: 55px;
+
+}
+footer p {
+  font-size: 13px;
+  line-height: 25px;
+  color: #FFFFFF;
+  position: relative;
+  top: 0px;
+
+}
+footer a {
+  color: #FFFFFF;
+}
+footer .footer-manu {
+  padding-bottom: 25px;
+}
+footer .footer-manu ul {
+  margin: 0px;
+  padding: 0px;
+}
+footer .footer-manu ul li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+footer .footer-manu ul li a {
+  display: inline-white;
+  color: #FFFFFF;
+}
+footer .footer-manu ul li a:hover {
+  color: #FFFFFF;
+}
