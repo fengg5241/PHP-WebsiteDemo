@@ -1,0 +1,5 @@
+NRIC,email,birthDate,location,amount
+S1234567W,S1234567W@gmail.com,1890-01-01,East,400
+S7654321Q,S7654321Q@gmail.com,1890-10-01,West,200
+S7654341Q,S7654321Q@gmail.com,1890-10-01,North,300
+S7654331Q,S7654321Q@gmail.com,1890-10-01,South,100
